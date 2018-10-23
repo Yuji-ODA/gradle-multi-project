@@ -35,15 +35,17 @@ project(':persistence') {
 	apply plugin: "com.arenagod.gradle.MybatisGenerator"
 	dependencies {
 		compile project(':domain')
-		compile('org.mybatis.spring.boot:mybatis-spring-boot-starter:1.2.0')
+//		compile('org.mybatis.spring.boot:mybatis-spring-boot-starter:1.2.0')
 	}
 	configurations {
 		mybatisGenerator
 	}
+/*
 	mybatisGenerator {
 		verbose = true
 		configFile = "${projectDir}/src/main/resources/autogen/generatorConfig.xml"
 	}
+*/
 }
 
 project(':web') {

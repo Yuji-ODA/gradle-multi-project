@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true" LANGUAGE_LEVEL="JDK_1_8">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/yuji/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.12/64b2d2e8734b54ddba60a69df68a6dac627366c8/lombok-1.16.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/yuji/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.12/45caec5a0abdd19d6f4f7f9c1de77d5bb513694e/lombok-1.16.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
